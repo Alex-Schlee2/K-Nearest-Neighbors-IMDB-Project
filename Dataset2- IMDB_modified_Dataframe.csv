@@ -1,0 +1,1877 @@
+Movie_ID,title,year,rating,rating_count,genre,Action,Adventure,Animation,Biography,Comedy,Crime,Documentary,Drama,Family,Fantasy,Mystery,Talk-Show,War,Film-Noir,Game-Show,History,Horror,Music,Musical,Reality-TV,News,Romance,Sci-Fi,Sport,Thriller,Western
+0,Gladiator ,2000,8.5,1294736,"Action,Adventure,Drama,5 May 2000 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,Jurassic Park ,1993,8.1,834297,"Action,Adventure,Sci-Fi,11 June 1993 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2,Saving Private Ryan ,1998,8.6,1191235,"Drama,War,24 July 1998 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Pulp Fiction ,1994,8.9,1763342,"Crime,Drama,14 October 1994 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Inglourious Basterds ,2009,8.3,1216056,"Adventure,Drama,War,21 August 2009 (USA)
+",0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Knives Out ,2019,7.9,326486,"Comedy,Crime,Drama,27 November 2019 (USA)
+",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Titanic ,1997,7.8,1015544,"Drama,Romance,19 December 1997 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+7,Starship Troopers ,1997,7.2,261489,"Action,Adventure,Sci-Fi,7 November 1997 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+8,Django Unchained ,2012,8.4,1303437,"Drama,Western,25 December 2012 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,Bombshell ,2019,6.8,62541,"Biography,Drama,20 December 2019 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,No Country for Old Men ,2007,8.1,820709,"Crime,Drama,Thriller,21 November 2007 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+11,Selma ,2014,7.5,82591,"Biography,Drama,History,9 January 2015 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+12,The Disaster Artist ,2017,7.4,130256,"Biography,Comedy,Drama,8 December 2017 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,The Matrix ,1999,8.7,1615763,"Action,Sci-Fi,31 March 1999 (USA)
+",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+14,Moana ,2016,7.6,255023,"Animation,Adventure,Comedy,23 November 2016 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,The Silence of the Lambs ,1991,8.6,1219979,"Crime,Drama,Thriller,14 February 1991 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+16,Fight Club ,1999,8.8,1790606,"Drama,15 October 1999 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Forrest Gump ,1994,8.8,1736671,"Drama,Romance,6 July 1994 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+18,Get Out ,2017,7.7,463603,"Horror,Mystery,Thriller,24 February 2017 (USA)
+",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+19,The Fifth Element ,1997,7.7,422260,"Action,Adventure,Sci-Fi,9 May 1997 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+20,Guardians of the Galaxy Vol. 2 ,2017,7.6,542583,"Action,Adventure,Comedy,5 May 2017 (USA)
+",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Ford v Ferrari ,2019,8.1,224521,"Action,Biography,Drama,15 November 2019 (USA)
+",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,The Irishman ,2019,7.9,294934,"Biography,Crime,Drama,27 November 2019 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Mad Max: Fury Road ,2015,8.1,845667,"Action,Adventure,Sci-Fi,15 May 2015 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+24,Call Me by Your Name ,2017,7.9,193821,"Drama,Romance,19 January 2018 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+25,A Beautiful Day in the Neighborhood ,2019,7.3,44291,"Biography,Drama,22 November 2019 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Black Panther ,2018,7.3,585077,"Action,Adventure,Sci-Fi,16 February 2018 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27,The Dark Knight ,2008,9.0,2219910,"Action,Crime,Drama,18 July 2008 (USA)
+",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Ready Player One ,2018,7.5,346399,"Action,Adventure,Sci-Fi,29 March 2018 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+29,Interstellar ,2014,8.6,1425862,"Adventure,Drama,Sci-Fi,7 November 2014 (USA)
+",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+30,Marriage Story ,2019,8.0,217334,"Comedy,Drama,Romance,6 December 2019 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+31,The Lord of the Rings: The Fellowship of the Ring ,2001,8.8,1604881,"Action,Adventure,Drama,19 December 2001 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Harry Potter and the Sorcerer's Stone ,2001,7.6,616893,"Adventure,Family,Fantasy,16 November 2001 (USA)
+",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Little Women ,2019,7.9,110451,"Drama,Romance,25 December 2019 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+34,Baby Driver ,2017,7.6,413975,"Action,Crime,Drama,28 June 2017 (USA)
+",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Star Wars: Episode I - The Phantom Menace ,1999,6.5,707693,"Action,Adventure,Fantasy,19 May 1999 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Harry Potter and the Prisoner of Azkaban ,2004,7.9,527055,"Adventure,Family,Fantasy,4 June 2004 (USA)
+",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Charlie and the Chocolate Factory ,2005,6.6,412637,"Adventure,Comedy,Family,15 July 2005 (USA)
+",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,The Usual Suspects ,1995,8.5,959758,"Crime,Mystery,Thriller,16 August 1995 (USA)
+",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+39,American History X ,1998,8.5,1005534,"Drama,20 November 1998 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Rogue One: A Star Wars Story ,2016,7.8,532995,"Action,Adventure,Sci-Fi,16 December 2016 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+41,Batman Begins ,2005,8.2,1266420,"Action,Adventure,15 June 2005 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,The Social Network ,2010,7.7,602666,"Biography,Drama,1 October 2010 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Requiem for a Dream ,2000,8.3,741760,"Drama,15 December 2000 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Richard Jewell ,2019,7.5,41646,"Biography,Crime,Drama,13 December 2019 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Star Wars: Episode VII - The Force Awakens ,2015,7.9,839993,"Action,Adventure,Sci-Fi,18 December 2015 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+46,Bohemian Rhapsody ,2018,8.0,426645,"Biography,Drama,Music,2 November 2018 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+47,Toy Story 4 ,2019,7.8,182599,"Animation,Adventure,Comedy,21 June 2019 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Misery ,1990,7.8,177083,"Drama,Thriller,30 November 1990 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+49,The Mummy ,1999,7.0,381639,"Action,Adventure,Fantasy,7 May 1999 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,The Great Gatsby ,2013,7.2,461851,"Drama,Romance,10 May 2013 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+51,Les Misérables ,2012,7.6,300364,"Drama,History,Musical,25 December 2012 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+52,Transformers ,2007,7.0,586204,"Action,Adventure,Sci-Fi,3 July 2007 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+53,The Martian ,2015,8.0,733085,"Adventure,Drama,Sci-Fi,2 October 2015 (USA)
+",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+54,Molly's Game ,2017,7.4,130033,"Biography,Crime,Drama,5 January 2018 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Ex Machina ,2014,7.7,456959,"Drama,Mystery,Sci-Fi,24 April 2015 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+56,Star Wars: Episode VIII - The Last Jedi ,2017,7.0,541782,"Action,Adventure,Fantasy,15 December 2017 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,Gangs of New York ,2002,7.5,393506,"Crime,Drama,20 December 2002 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Iron Man ,2008,7.9,914076,"Action,Adventure,Sci-Fi,2 May 2008 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+59,That Thing You Do! ,1996,6.9,60538,"Comedy,Drama,Music,4 October 1996 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+60,The Ballad of Buster Scruggs ,2018,7.3,111623,"Comedy,Drama,Musical,9 November 2018 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+61,Basic Instinct ,1992,7.0,166619,"Drama,Mystery,Thriller,20 March 1992 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+62,Changeling ,2008,7.7,231464,"Biography,Crime,Drama,31 October 2008 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,Romeo + Juliet ,1996,6.7,204954,"Drama,Romance,1 November 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64,Iron Man 3 ,2013,7.2,734243,"Action,Adventure,Sci-Fi,3 May 2013 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+65,Captain America: The Winter Soldier ,2014,7.7,712908,"Action,Adventure,Sci-Fi,4 April 2014 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+66,Spotlight ,2015,8.1,400571,"Biography,Crime,Drama,20 November 2015 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,Star Wars: Episode III - Revenge of the Sith ,2005,7.5,688902,"Action,Adventure,Fantasy,19 May 2005 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,Billy Elliot ,2000,7.7,122677,"Drama,Music,10 November 2000 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+69,Fargo ,1996,8.1,595286,"Crime,Drama,Thriller,5 April 1996 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+70,Star Trek ,2009,7.9,569542,"Action,Adventure,Sci-Fi,8 May 2009 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+71,Speed ,1994,7.2,319334,"Action,Adventure,Thriller,10 June 1994 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+72,Home Alone ,1990,7.6,447957,"Comedy,Family,16 November 1990 (USA)
+",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,Inside Out ,2015,8.1,585200,"Animation,Adventure,Comedy,19 June 2015 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,Harriet ,2019,6.4,14473,"Action,Biography,Drama,1 November 2019 (USA)
+",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,Nightcrawler ,2014,7.8,442324,"Crime,Drama,Thriller,31 October 2014 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+76,Mrs. Doubtfire ,1993,7.0,236965,"Comedy,Drama,Family,24 November 1993 (USA)
+",0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,Spider-Man 2 ,2004,7.3,528412,"Action,Adventure,Sci-Fi,30 June 2004 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+78,American Hustle ,2013,7.2,437437,"Crime,Drama,20 December 2013 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,Jackie Brown ,1997,7.5,306088,"Crime,Drama,Thriller,25 December 1997 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+80,The Hobbit: The Desolation of Smaug ,2013,7.8,587471,"Adventure,Fantasy,13 December 2013 (USA)
+",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,Manchester by the Sea ,2016,7.8,235277,"Drama,16 December 2016 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,The Master ,2012,7.2,147587,"Drama,21 September 2012 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,Argo ,2012,7.7,559493,"Biography,Drama,Thriller,12 October 2012 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+84,The Fugitive ,1993,7.8,259361,"Action,Crime,Drama,6 August 1993 (USA)
+",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,Ratatouille ,2007,8.0,618916,"Animation,Adventure,Comedy,29 June 2007 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,Mulan ,1998,7.6,241403,"Animation,Adventure,Family,19 June 1998 (USA)
+",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,The Lobster ,2015,7.2,206506,"Comedy,Drama,Romance,23 June 2016 (Germany)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+88,Vice ,2018,7.2,109515,"Biography,Comedy,Drama,25 December 2018 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,Lion ,2016,8.0,203497,"Biography,Drama,6 January 2017 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,Slumdog Millionaire ,2008,8.0,781507,"Drama,Romance,25 December 2008 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+91,The Addams Family ,1991,6.9,125730,"Comedy,Fantasy,22 November 1991 (USA)
+",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,Million Dollar Baby ,2004,8.1,617568,"Drama,Sport,28 January 2005 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+93,Big Fish ,2003,8.0,405367,"Adventure,Drama,Fantasy,9 January 2004 (USA)
+",0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,Dick Tracy ,1990,6.1,56064,"Action,Comedy,Crime,15 June 1990 (USA)
+",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,Dallas Buyers Club ,2013,8.0,426038,"Biography,Drama,22 November 2013 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,Mystic River ,2003,7.9,408253,"Crime,Drama,Mystery,15 October 2003 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,Mudbound ,2017,7.4,39647,"Drama,War,17 November 2017 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,Little Women ,1994,7.3,49478,"Drama,Family,Romance,25 December 1994 (USA)
+",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+99,L.A. Confidential ,1997,8.2,517376,"Crime,Drama,Mystery,19 September 1997 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,Finding Nemo ,2003,8.1,920297,"Animation,Adventure,Comedy,30 May 2003 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,Cold Mountain ,2003,7.2,137174,"Adventure,Drama,History,25 December 2003 (USA)
+",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+102,The Mask ,1994,6.9,334424,"Action,Comedy,Crime,29 July 1994 (USA)
+",1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,Star Trek Into Darkness ,2013,7.7,456673,"Action,Adventure,Sci-Fi,16 May 2013 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+104,Up ,2009,8.2,903042,"Animation,Adventure,Comedy,29 May 2009 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,Judy ,2019,6.8,31772,"Biography,Drama,Romance,4 October 2019 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+106,TRON: Legacy ,2010,6.8,307258,"Action,Adventure,Sci-Fi,17 December 2010 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+107,Sleepy Hollow ,1999,7.3,320176,"Fantasy,Horror,Mystery,19 November 1999 (USA)
+",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+108,Fantastic Mr. Fox ,2009,7.9,190451,"Animation,Adventure,Comedy,25 November 2009 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,The Devil Wears Prada ,2006,6.9,358893,"Comedy,Drama,30 June 2006 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,Up in the Air ,2009,7.4,312370,"Comedy,Drama,Romance,23 December 2009 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+111,Blood Diamond ,2006,8.0,485693,"Adventure,Drama,Thriller,8 December 2006 (USA)
+",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+112,Hollow Man ,2000,5.8,120648,"Action,Horror,Sci-Fi,4 August 2000 (USA)
+",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+113,Contact ,1997,7.4,246911,"Drama,Mystery,Sci-Fi,11 July 1997 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+114,X-Men: Days of Future Past ,2014,8.0,646414,"Action,Adventure,Sci-Fi,23 May 2014 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+115,Incendies ,2010,8.3,139545,"Drama,Mystery,War,23 June 2011 (Germany)
+",0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,Moonrise Kingdom ,2012,7.8,308514,"Comedy,Drama,Romance,29 June 2012 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+117,Batman Returns ,1992,7.0,266491,"Action,Crime,Fantasy,19 June 1992 (USA)
+",1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,Ted ,2012,6.9,558898,"Comedy,29 June 2012 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,The Impossible ,2012,7.6,190356,"Drama,History,Thriller,4 January 2013 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+120,Lincoln ,2012,7.3,238680,"Biography,Drama,History,16 November 2012 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+121,Collateral ,2004,7.5,349420,"Crime,Drama,Thriller,6 August 2004 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+122,Lone Survivor ,2013,7.5,259562,"Action,Biography,Drama,10 January 2014 (USA)
+",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123,Backdraft ,1991,6.7,69379,"Crime,Drama,Mystery,24 May 1991 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,Sweeney Todd: The Demon Barber of Fleet Street ,2007,7.3,335251,"Drama,Horror,Musical,21 December 2007 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+125,A.I. Artificial Intelligence ,2001,7.2,284730,"Drama,Sci-Fi,29 June 2001 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+126,Magnolia ,1999,8.0,282417,"Drama,7 January 2000 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,Revolutionary Road ,2008,7.3,189499,"Drama,Romance,23 January 2009 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+128,Sleepers ,1996,7.6,182628,"Crime,Drama,Thriller,18 October 1996 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+129,Gattaca ,1997,7.8,273564,"Drama,Sci-Fi,Thriller,24 October 1997 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+130,Juno ,2007,7.4,481106,"Comedy,Drama,25 December 2007 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+131,Transformers: Revenge of the Fallen ,2009,6.0,377328,"Action,Adventure,Sci-Fi,24 June 2009 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+132,Con Air ,1997,6.9,269062,"Action,Crime,Thriller,6 June 1997 (USA)
+",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+133,Beauty and the Beast ,1991,8.0,408030,"Animation,Family,Fantasy,22 November 1991 (USA)
+",0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,Toy Story 3 ,2010,8.3,733413,"Animation,Adventure,Comedy,18 June 2010 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,The Theory of Everything ,2014,7.7,386456,"Biography,Drama,Romance,26 November 2014 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+136,Enchanted ,2007,7.0,172669,"Animation,Comedy,Family,21 November 2007 (USA)
+",0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,The Big Sick ,2017,7.5,115579,"Comedy,Drama,Romance,14 July 2017 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+138,Meet the Parents ,2000,7.0,304115,"Comedy,Romance,6 October 2000 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+139,The Phantom of the Opera ,2004,7.3,113897,"Drama,Musical,Romance,16 December 2004 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+140,Steve Jobs ,2015,7.2,148648,"Biography,Drama,23 October 2015 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,The Royal Tenenbaums ,2001,7.6,258839,"Comedy,Drama,4 January 2002 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,Brooklyn ,2015,7.5,126351,"Drama,Romance,25 November 2015 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+143,My Big Fat Greek Wedding ,2002,6.5,117307,"Comedy,Drama,Romance,2 August 2002 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+144,The Queen ,2006,7.3,101686,"Biography,Drama,History,17 November 2006 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+145,The Talented Mr. Ripley ,1999,7.4,176075,"Crime,Drama,Thriller,25 December 1999 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+146,Lemony Snicket's A Series of Unfortunate Events ,2004,6.8,191762,"Adventure,Comedy,Family,17 December 2004 (USA)
+",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,Fried Green Tomatoes ,1991,7.7,64764,"Drama,24 January 1992 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,Munich ,2005,7.5,206650,"Action,Drama,History,6 January 2006 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+149,Creed ,2015,7.6,239774,"Drama,Sport,25 November 2015 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+150,Ghost ,1990,7.0,190274,"Drama,Fantasy,Romance,13 July 1990 (USA)
+",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+151,The Assassination of Jesse James by the Coward Robert Ford ,2007,7.5,164425,"Biography,Crime,Drama,19 October 2007 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,The Time Machine ,2002,6.0,116694,"Action,Adventure,Sci-Fi,8 March 2002 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+153,Salt ,2010,6.4,289333,"Action,Mystery,Thriller,23 July 2010 (USA)
+",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+154,Eastern Promises ,2007,7.6,222395,"Action,Crime,Drama,21 September 2007 (USA)
+",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,Captain Phillips ,2013,7.8,408343,"Biography,Crime,Drama,11 October 2013 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+156,The Age of Innocence ,1993,7.2,49393,"Drama,Romance,1 October 1993 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+157,Bridget Jones's Diary ,2001,6.7,218297,"Comedy,Drama,Romance,13 April 2001 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+158,The Wife ,2017,7.2,32431,"Drama,3 January 2019 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,Anastasia ,1997,7.2,108366,"Animation,Adventure,Drama,21 November 1997 (USA)
+",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,Rango ,2011,7.2,228984,"Animation,Adventure,Comedy,4 March 2011 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,Monster ,2003,7.3,131543,"Biography,Crime,Drama,30 January 2004 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,Dawn of the Planet of the Apes ,2014,7.6,404426,"Action,Adventure,Drama,11 July 2014 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,Real Steel ,2011,7.1,291662,"Action,Drama,Family,7 October 2011 (USA)
+",1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+164,The Hours ,2002,7.5,121584,"Drama,Romance,14 February 2003 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+165,Gosford Park ,2001,7.2,78130,"Comedy,Drama,Mystery,18 January 2002 (USA)
+",0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,Sleepless in Seattle ,1993,6.8,153707,"Comedy,Drama,Romance,25 June 1993 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+167,Babel ,2006,7.4,283538,"Drama,10 November 2006 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,The Descendants ,2011,7.3,229059,"Comedy,Drama,9 December 2011 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,Inside Llewyn Davis ,2013,7.5,134118,"Comedy,Drama,Music,10 January 2014 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+170,Winter's Bone ,2010,7.2,132704,"Drama,Mystery,16 July 2010 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,U-571 ,2000,6.6,74996,"Action,War,21 April 2000 (USA)
+",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,Defiance ,2008,7.2,134999,"Action,Drama,History,16 January 2009 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+173,Blue Jasmine ,2013,7.3,187734,"Drama,23 August 2013 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+174,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,2006,7.3,344400,"Comedy,3 November 2006 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,The Nightmare Before Christmas ,1993,8.0,283213,"Animation,Family,Fantasy,29 October 1993 (USA)
+",0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,Death Becomes Her ,1992,6.6,99407,"Comedy,Fantasy,Horror,31 July 1992 (USA)
+",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+177,Bolt ,2008,6.8,184294,"Animation,Adventure,Comedy,21 November 2008 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,Bicentennial Man ,1999,6.9,107472,"Comedy,Drama,Sci-Fi,17 December 1999 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+179,First Reformed ,2017,7.1,43837,"Drama,Mystery,Thriller,18 May 2018 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+180,The Wrestler ,2008,7.9,284929,"Drama,Sport,30 January 2009 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+181,Norbit ,2007,4.1,66517,"Comedy,Romance,9 February 2007 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+182,Youth ,2015,7.3,69059,"Comedy,Drama,Music,4 December 2015 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+183,Begin Again ,2013,7.4,138083,"Comedy,Drama,Music,11 July 2014 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+184,Under Siege ,1992,6.5,74279,"Action,Thriller,9 October 1992 (USA)
+",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+185,Amistad ,1997,7.3,69145,"Biography,Drama,History,25 December 1997 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+186,Rio ,2011,6.9,200914,"Animation,Adventure,Comedy,15 April 2011 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,The Kids Are All Right ,2010,7.0,123767,"Comedy,Drama,Romance,30 July 2010 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+188,The Good Shepherd ,2006,6.7,96784,"Drama,History,Thriller,22 December 2006 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+189,The Boss Baby ,2017,6.3,103771,"Animation,Adventure,Comedy,31 March 2017 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,Can You Ever Forgive Me? ,2018,7.1,43455,"Biography,Comedy,Crime,21 February 2019 (Germany)
+",0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,Monster's Ball ,2001,7.0,80934,"Drama,Romance,1 March 2002 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+192,James and the Giant Peach ,1996,6.7,58520,"Animation,Adventure,Family,12 April 1996 (USA)
+",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,Sling Blade ,1996,8.0,85223,"Drama,14 March 1997 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194,How the Grinch Stole Christmas ,2000,6.2,196983,"Comedy,Family,Fantasy,17 November 2000 (USA)
+",0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,My Week with Marilyn ,2011,7.0,81828,"Biography,Drama,23 December 2011 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,Babe ,1995,6.7,114128,"Comedy,Drama,Family,4 August 1995 (USA)
+",0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,Finding Neverland ,2004,7.7,195449,"Biography,Drama,Family,17 December 2004 (USA)
+",0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,Despicable Me 2 ,2013,7.3,360839,"Animation,Adventure,Comedy,3 July 2013 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,Barton Fink ,1991,7.7,109794,"Comedy,Drama,Thriller,21 August 1991 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+200,Brother Bear ,2003,6.8,93238,"Animation,Adventure,Comedy,7 November 2003 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,In the Bedroom ,2001,7.4,36641,"Crime,Drama,8 February 2002 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,Happy Feet ,2006,6.4,165576,"Animation,Adventure,Comedy,17 November 2006 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,"South Park: Bigger, Longer & Uncut ",1999,7.7,188870,"Animation,Comedy,Fantasy,30 June 1999 (USA)
+",0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,The Iron Lady ,2011,6.4,100449,"Biography,Drama,13 January 2012 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,The Straight Story ,1999,8.0,79111,"Biography,Drama,2 December 1999 (Germany)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,The Lover ,1992,6.9,18463,"Biography,Drama,Romance,30 October 1992 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+207,Daylight ,1996,5.9,64338,"Action,Adventure,Drama,6 December 1996 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,I Am Love ,2009,7.0,19687,"Drama,Romance,23 July 2010 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+209,Poseidon ,2006,5.7,95938,"Action,Adventure,Thriller,12 May 2006 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+210,Kung Fu Panda 2 ,2011,7.2,244681,"Animation,Action,Adventure,26 May 2011 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,Star Trek: First Contact ,1996,7.6,115258,"Action,Adventure,Drama,22 November 1996 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,Kubo and the Two Strings ,2016,7.8,113793,"Animation,Action,Adventure,19 August 2016 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,Breaking the Waves ,1996,7.8,60580,"Drama,13 November 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,Embrace of the Serpent ,2015,7.9,19656,"Adventure,Drama,21 April 2016 (Germany)
+",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,The Wolfman ,2010,5.8,101157,"Drama,Fantasy,Horror,12 February 2010 (USA)
+",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+216,Invictus ,2009,7.3,146545,"Biography,Drama,History,11 December 2009 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+217,The Fisher King ,1991,7.5,77021,"Comedy,Drama,Fantasy,27 September 1991 (USA)
+",0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,Crimson Tide ,1995,7.3,98074,"Action,Drama,Thriller,12 May 1995 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+219,United 93 ,2006,7.5,96442,"Drama,History,Thriller,28 April 2006 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+220,Land of Mine ,2015,7.8,32927,"Drama,History,War,7 April 2016 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+221,Hereafter ,2010,6.4,89216,"Drama,Fantasy,Romance,22 October 2010 (USA)
+",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+222,Velvet Goldmine ,1998,7.0,33022,"Drama,Music,26 November 1998 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+223,The Client ,1994,6.7,57768,"Crime,Drama,Mystery,20 July 1994 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,Eraser ,1996,6.1,101213,"Action,Drama,Thriller,21 June 1996 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+225,August Rush ,2007,7.5,101857,"Drama,Music,21 November 2007 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+226,Frost/Nixon ,2008,7.7,100364,"Biography,Drama,History,23 January 2009 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+227,Maverick ,1994,7.0,99088,"Action,Adventure,Comedy,20 May 1994 (USA)
+",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,Once ,2007,7.8,108458,"Drama,Music,Romance,15 June 2007 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+229,Florence Foster Jenkins ,2016,6.8,48957,"Biography,Comedy,Drama,12 August 2016 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,Syriana ,2005,6.9,123865,"Drama,Thriller,9 December 2005 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+231,I'm Not There ,2007,6.9,55650,"Biography,Drama,Music,7 December 2007 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+232,Flags of Our Fathers ,2006,7.1,115232,"Action,Adventure,Drama,20 October 2006 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,La Vie En Rose ,2007,7.6,80828,"Biography,Drama,Music,20 July 2007 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+234,In America ,2002,7.7,39880,"Drama,6 February 2004 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,Fly Away Home ,1996,6.8,23006,"Adventure,Drama,Family,13 September 1996 (USA)
+",0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,The Horse Whisperer ,1998,6.6,38204,"Drama,Romance,Western,15 May 1998 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+237,The Young Victoria ,2009,7.3,56337,"Biography,Drama,History,8 January 2010 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+238,Howards End ,1992,7.4,27700,"Drama,Romance,26 February 1993 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+239,Nine ,2009,5.8,41869,"Drama,Musical,Romance,25 December 2009 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+240,Kon-Tiki ,2012,7.2,44289,"Adventure,Biography,Drama,26 April 2013 (USA)
+",0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,Michael Collins ,1996,7.2,28814,"Biography,Drama,Thriller,25 October 1996 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+242,Spirit: Stallion of the Cimarron ,2002,7.1,62651,"Animation,Adventure,Drama,24 May 2002 (USA)
+",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,Far from Heaven ,2002,7.3,43010,"Drama,10 January 2003 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,Wallace & Gromit: The Curse of the Were-Rabbit ,2005,7.4,122102,"Animation,Adventure,Comedy,7 October 2005 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,One Fine Day ,1996,6.5,42317,"Comedy,Drama,Romance,20 December 1996 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+246,Song of the Sea ,2014,8.1,48503,"Animation,Adventure,Drama,20 November 2015 (USA)
+",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,Orlando ,1992,7.2,13637,"Biography,Drama,Fantasy,9 June 1993 (USA)
+",0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,Notes on a Scandal ,2006,7.4,73386,"Crime,Drama,Romance,26 January 2007 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+249,Country Strong ,2010,6.3,16916,"Drama,Music,7 January 2011 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+250,Half Nelson ,2006,7.2,82818,"Drama,22 September 2006 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251,The Crucible ,1996,6.8,34365,"Drama,History,27 November 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+252,Hitchcock ,2012,6.8,70672,"Biography,Drama,Romance,14 December 2012 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+253,Ghosts of Mississippi ,1996,6.7,9857,"Drama,History,3 January 1997 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+254,The Madness of King George ,1994,7.2,14943,"Biography,Comedy,Drama,28 December 1994 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,Beasts of the Southern Wild ,2012,7.3,79527,"Adventure,Drama,Fantasy,20 December 2012 (Germany)
+",0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+256,W.E. ,2011,6.3,11821,"Drama,History,Romance,21 June 2012 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+257,North Country ,2005,7.3,38675,"Drama,21 October 2005 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+258,Kinsey ,2004,7.0,46845,"Biography,Drama,Romance,7 January 2005 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+259,American Splendor ,2003,7.4,46789,"Biography,Comedy,Drama,12 September 2003 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,The Breadwinner ,2017,7.7,18200,"Animation,Drama,Family,17 November 2017 (USA)
+",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+261,Shadow of the Vampire ,2000,6.9,39327,"Drama,Horror,26 January 2001 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+262,The Pirates! Band of Misfits ,2012,6.7,43755,"Animation,Adventure,Comedy,27 April 2012 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,Schön ist die Jugendzeit ,1995,6.9,5589,"Drama,Romance,War,8 March 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+264,My Life as a Zucchini ,2016,7.8,20095,"Animation,Comedy,Drama,24 February 2017 (USA)
+",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Toys ,1992,5.1,29911,"Adventure,Comedy,Drama,18 December 1992 (USA)
+",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,Searching for Bobby Fischer ,1993,7.4,28564,"Biography,Drama,11 August 1993 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,The Savages ,2007,7.1,35323,"Comedy,Drama,1 February 2008 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+268,Mighty Joe Young ,1998,5.6,26953,"Action,Adventure,Family,25 December 1998 (USA)
+",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,In the Valley of Elah ,2007,7.1,67669,"Crime,Drama,Mystery,28 September 2007 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,Kundun ,1997,7.0,25511,"Biography,Drama,History,16 January 1998 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+271,Deconstructing Harry ,1997,7.4,41426,"Comedy,2 January 1998 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,"Two Days, One Night ",2014,7.3,43692,"Drama,30 October 2014 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,Bad Grandpa ,2013,6.5,88012,"Comedy,25 October 2013 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,The Paper ,1994,6.6,12575,"Comedy,Drama,25 March 1994 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Passion Fish ,1992,7.4,4879,"Drama,11 December 1992 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Affliction ,1997,7.0,14621,"Drama,Mystery,Thriller,19 February 1999 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+277,Husbands and Wives ,1992,7.5,26564,"Comedy,Drama,Romance,18 September 1992 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+278,The Invisible Woman ,2013,6.1,9093,"Biography,Drama,History,24 April 2014 (Germany)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+279,The Baader Meinhof Complex ,2008,7.4,34857,"Action,Biography,Crime,25 September 2008 (Germany)
+",1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,The Tempest ,2010,5.3,7298,"Comedy,Drama,Fantasy,7 January 2011 (Brazil)
+",0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+281,The Wedding Banquet ,1993,7.6,13528,"Comedy,Drama,Romance,4 August 1993 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+282,The Visitor ,2007,7.6,40993,"Drama,23 May 2008 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+283,The Triplets of Belleville ,2003,7.8,49675,"Animation,Comedy,Drama,13 February 2004 (USA)
+",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,Postcards from the Edge ,1990,6.7,14946,"Comedy,Drama,14 September 1990 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,Havana ,1990,6.1,6995,"Drama,Romance,War,14 December 1990 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+286,Fearless ,1993,7.1,20743,"Drama,Thriller,5 November 1993 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+287,The Secret of Kells ,2009,7.6,30100,"Animation,Adventure,Family,22 June 2016 (USA)
+",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+288,A Civil Action ,1998,6.6,26866,"Drama,8 January 1999 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+289,Happy-Go-Lucky ,2008,7.0,36948,"Comedy,Drama,Romance,21 November 2008 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+290,No Man's Land ,2001,7.9,43676,"Comedy,Drama,War,20 February 2003 (Germany)
+",0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+291,The Mirror Has Two Faces ,1996,6.6,14901,"Comedy,Drama,Romance,15 November 1996 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+292,The End of the Affair ,1999,7.1,20874,"Drama,Romance,21 January 2000 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+293,Primary Colors ,1998,6.6,26850,"Comedy,Drama,20 March 1998 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Il Divo - Der Göttliche ,2008,7.3,15507,"Biography,Drama,16 April 2009 (Germany)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,The Mambo Kings ,1992,6.4,4964,"Drama,Music,28 February 1992 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+296,Rambling Rose ,1991,6.6,4535,"Drama,20 September 1991 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,Avalon ,1990,7.2,5523,"Drama,19 October 1990 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,The Barbarian Invasions ,2003,7.6,27830,"Comedy,Crime,Drama,5 March 2004 (USA)
+",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+299,Little Voice ,1998,6.9,15489,"Comedy,Drama,Music,4 December 1998 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+300,Hilary and Jackie ,1998,7.3,9542,"Biography,Drama,Music,5 February 1999 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+301,Before the Rain ,1994,8.0,13491,"Drama,War,24 February 1995 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,Metropolitan ,1990,7.4,9141,"Comedy,Drama,Romance,3 August 1990 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+303,The Preacher's Wife ,1996,5.6,10659,"Comedy,Drama,Fantasy,13 December 1996 (USA)
+",0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+304,The Field ,1990,7.4,5352,"Drama,Thriller,March 1991 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+305,Mediterraneo ,1991,7.5,13366,"Comedy,Drama,War,30 July 1992 (Germany)
+",0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,The Wings of the Dove ,1997,7.1,10153,"Drama,Romance,13 March 1998 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+307,Music of the Heart ,1999,6.8,11669,"Drama,Music,29 October 1999 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+308,Theeb ,2014,7.2,9741,"Adventure,Drama,Thriller,19 March 2015 (United Arab Emirates)
+",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+309,Tsotsi ,2005,7.2,27391,"Crime,Drama,31 March 2006 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,A War ,2015,7.1,9465,"Crime,Drama,Thriller,14 April 2016 (Germany)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+311,One True Thing ,1998,7.0,11068,"Drama,18 September 1998 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+312,Restoration ,1995,6.6,8716,"Biography,Drama,History,2 February 1996 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+313,LaLee's Kin: The Legacy of Cotton ,2001,7.7,210,"Documentary,TV Movie 19 January 2001
+",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314,Liberators: Fighting on Two Fronts in World War II ,1992,4.7,57,"Documentary,War,TV Movie 11 November 1992
+",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+315,The Last Station ,2009,7.0,17500,"Biography,Drama,Romance,26 February 2010 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+316,My Family ,1995,7.3,3606,"Drama,3 May 1995 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+317,Zus & Zo ,2001,6.2,1557,"Comedy,Fantasy,Romance,8 May 2002 (Netherlands)
+",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+318,Solomon & Gaenor ,1999,6.8,1131,"Drama,Romance,30 April 1999 (UK)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+319,Don't Tell ,2005,6.4,2329,"Drama,Mystery,17 March 2006 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,Children of Nature - Eine Reise ,1991,7.3,1354,"Drama,Romance,8 October 1992 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+321,Hedd Wyn ,1992,7.0,342,"Drama,Romance,War,12 January 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+322,Eine Frau namens Yesterday ,2004,7.6,2180,"Drama,3 September 2004 (South Africa)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+323,Beyond Silence ,1996,7.4,4023,"Drama,Music,5 June 1998 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+324,Die Zwillinge ,2002,7.4,6337,"Drama,Romance,War,7 October 2004 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+325,Everybody's Famous! ,2000,6.9,3071,"Comedy,Drama,Music,7 February 2002 (Germany)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+326,The Taste of Others ,2000,7.2,8805,"Comedy,Drama,Romance,9 November 2000 (Germany)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+327,Four Days in September ,1997,7.4,4420,"Action,Drama,History,30 January 1998 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+328,Tom & Viv ,1994,6.4,1494,"Biography,Drama,Romance,2 December 1994 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+329,Character ,1997,7.7,10245,"Crime,Drama,Mystery,27 March 1998 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+330,A Cat in Paris ,2010,6.9,10333,"Animation,Adventure,Comedy,15 December 2010 (France)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,Hors la loi ,2010,6.5,3605,"Crime,Drama,War,22 September 2010 (France)
+",0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+332,Alone Yet Not Alone ,2013,4.6,718,"Action,Drama,History,27 September 2013 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+333,Unstrung Heroes ,1995,6.7,2936,"Comedy,Drama,22 September 1995 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+334,Georgia ,1995,6.6,2760,"Drama,Music,8 December 1995 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+335,Roommates ,1995,6.4,1694,"Comedy,Drama,3 March 1995 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,Monsieur Lazhar ,2011,7.5,18803,"Comedy,Drama,12 April 2012 (Germany)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,Afterglow ,1997,6.1,3205,"Comedy,Drama,Romance,20 March 1998 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+338,Chico & Rita ,2010,7.2,8449,"Animation,Crime,Drama,30 August 2012 (Germany)
+",0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+339,Mr. Saturday Night ,1992,5.9,4387,"Comedy,Drama,25 September 1992 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+340,Strawberry and Chocolate ,1993,7.4,5182,"Comedy,Drama,Romance,20 January 1995 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+341,For the Boys ,1991,6.4,4992,"Comedy,Drama,Music,27 November 1991 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+342,Paradise Now ,2005,7.4,22042,"Crime,Drama,Thriller,18 November 2005 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+343,Love Field ,1992,6.6,3541,"Drama,12 February 1993 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,Nirgendwo in Afrika ,2001,7.5,12150,"Biography,Drama,History,16 May 2003 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+345,Vatel ,2000,6.6,7224,"Biography,Drama,Romance,31 May 2001 (Germany)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+346,Mr. & Mrs. Bridge ,1990,6.6,2747,"Drama,1 November 1990 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,Oscar and Lucinda ,1997,6.6,6346,"Drama,Romance,31 December 1997 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+348,Frozen River ,2008,7.1,24247,"Crime,Drama,5 September 2008 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,The Wild Thornberrys ,2002,5.6,13843,"Animation,Adventure,Comedy,20 December 2002 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,The Affair of the Necklace ,2001,6.1,4963,"Drama,History,Romance,7 December 2001 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+351,Topsy-Turvy ,1999,7.3,11438,"Biography,Comedy,Drama,11 February 2000 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+352,Ulee's Gold ,1997,7.0,6640,"Drama,18 July 1997 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+353,Tumbleweeds ,1999,6.7,3186,"Comedy,Drama,3 March 2000 (UK)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,Snow Falling on Cedars ,1999,6.7,13499,"Drama,Mystery,Romance,7 January 2000 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+355,A Better Life ,2011,7.2,15034,"Drama,Romance,28 July 2011 (Thailand)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+356,Timbuktu ,2014,7.1,15766,"Drama,War,11 December 2014 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+357,Barney's Version ,2010,7.3,23676,"Comedy,Drama,18 February 2011 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,Being Julia ,2004,7.0,11846,"Comedy,Drama,Romance,18 February 2005 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+359,Pieces of April ,2003,7.0,19810,"Comedy,Drama,28 November 2003 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,Grand Canyon ,1991,6.9,14427,"Crime,Drama,17 January 1992 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+361,Vera Drake ,2004,7.6,23275,"Crime,Drama,4 February 2005 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+362,The Illusionist ,2010,7.5,32930,"Animation,Drama,Family,11 February 2011 (USA)
+",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,Alice ,1990,6.6,12982,"Comedy,Romance,28 February 1991 (Germany)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+364,The Counterfeiters ,2007,7.6,42472,"Crime,Drama,History,18 April 2008 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+365,Ernest & Celestine ,2012,7.9,17577,"Animation,Adventure,Comedy,28 February 2014 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+366,The Apostle ,1997,7.2,13118,"Drama,20 February 1998 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,Enchanted April ,1991,7.3,5921,"Drama,8 April 1993 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+368,Coco Before Chanel ,2009,6.7,38067,"Biography,Drama,6 November 2009 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,Maria Full of Grace ,2004,7.4,33534,"Crime,Drama,6 August 2004 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+370,Angels and Insects ,1995,6.8,4351,"Drama,Romance,26 January 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+371,Mrs. Henderson Presents ,2005,7.0,14930,"Comedy,Drama,Music,17 February 2006 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+372,Away from Her ,2006,7.5,21038,"Drama,25 May 2007 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,As It Is in Heaven ,2004,7.5,15887,"Comedy,Drama,Music,20 October 2005 (Germany)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+374,Joyeux Noel ,2005,7.7,26964,"Drama,History,Music,24 November 2005 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+375,Blue Sky ,1994,6.4,6618,"Drama,Romance,16 September 1994 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+376,Up Close & Personal ,1996,6.2,13204,"Drama,Romance,1 March 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+377,Venus ,2006,7.1,12212,"Comedy,Drama,Romance,16 February 2007 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+378,The Contender ,2000,6.9,22336,"Drama,Thriller,13 October 2000 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+379,Another Year ,2010,7.3,27197,"Comedy,Drama,4 February 2011 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,The Quiet American ,2002,7.0,26806,"Drama,Romance,Thriller,7 March 2003 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+381,Junebug ,2005,6.9,21886,"Comedy,Drama,16 September 2005 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+382,Iris ,2001,7.0,16877,"Biography,Drama,Romance,29 March 2002 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+383,Sweet and Lowdown ,1999,7.2,31550,"Comedy,Drama,Music,10 March 2000 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+384,Reversal of Fortune ,1990,7.2,14114,"Biography,Drama,Mystery,9 November 1990 (USA)
+",0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,Hoffa ,1992,6.6,20853,"Biography,Crime,Drama,25 December 1992 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+386,Bulworth ,1998,6.8,24284,"Comedy,Drama,Romance,22 May 1998 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+387,In a Better World ,2010,7.6,37738,"Drama,Romance,17 March 2011 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+388,Angela's Ashes ,1999,7.3,19746,"Drama,21 January 2000 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+389,The Grifters ,1990,6.9,24616,"Crime,Drama,Thriller,25 January 1991 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+390,The Cooler ,2003,6.9,31966,"Drama,Romance,16 January 2004 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+391,Dirty Pretty Things ,2002,7.3,39913,"Crime,Drama,Thriller,5 September 2003 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+392,Mrs. Brown ,1997,7.2,13102,"Biography,Drama,History,3 October 1997 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+393,Hamlet ,1990,6.7,20871,"Drama,18 January 1991 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+394,Transamerica ,2005,7.4,39830,"Adventure,Comedy,Drama,3 March 2006 (USA)
+",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,Green Card ,1990,6.2,21921,"Comedy,Drama,Romance,1 February 1991 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+396,Lorenzo's Oil ,1992,7.3,19991,"Drama,29 January 1993 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,The Portrait of a Lady ,1996,6.2,10559,"Drama,Romance,17 January 1997 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+398,Mr. Turner ,2014,6.8,23778,"Biography,Drama,History,6 November 2014 (Germany)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+399,The Messenger ,2009,7.1,33383,"Drama,Romance,War,4 December 2009 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+400,Bullets Over Broadway ,1994,7.4,34559,"Comedy,Crime,24 February 1995 (USA)
+",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,Persepolis ,2007,8.0,86323,"Animation,Biography,Drama,22 February 2008 (USA)
+",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+402,Babe: Pig in the City ,1998,5.7,30908,"Adventure,Comedy,Drama,25 November 1998 (USA)
+",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,Albert Nobbs ,2011,6.7,22989,"Drama,Romance,26 September 2013 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+404,After the Wedding ,2006,7.7,30967,"Drama,11 May 2007 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,Richard III ,1995,7.4,13476,"Drama,Sci-Fi,War,29 December 1995 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+406,The 100 Year-Old Man Who Climbed Out the Window and Disappeared ,2013,7.1,37368,"Adventure,Comedy,8 May 2015 (USA)
+",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,Titus ,1999,7.1,19347,"Drama,History,Thriller,11 February 2000 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+408,Shadowlands ,1993,7.3,16570,"Biography,Drama,Romance,14 January 1994 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+409,Bright Star ,2009,6.9,24838,"Biography,Drama,Romance,9 October 2009 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+410,Pollock ,2000,7.0,26391,"Biography,Drama,23 March 2001 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+411,Rabbit Hole ,2010,7.0,46508,"Drama,28 January 2011 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,The Broken Circle Breakdown ,2012,7.8,38339,"Drama,Music,Romance,25 April 2013 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+413,Quest for Camelot ,1998,6.3,14323,"Animation,Adventure,Comedy,15 May 1998 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+414,45 Years ,2015,7.1,29964,"Drama,Romance,10 September 2015 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+415,Junior ,1994,4.6,63545,"Comedy,Romance,Sci-Fi,23 November 1994 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+416,Wonder Boys ,2000,7.3,60250,"Comedy,Drama,25 February 2000 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+417,Shine ,1996,7.7,50231,"Biography,Drama,Music,14 February 1997 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+418,Lone Star ,1996,7.4,27337,"Drama,Mystery,21 June 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+419,Whale Rider ,2002,7.5,38676,"Drama,Family,29 August 2003 (USA)
+",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+420,The Prince of Tides ,1991,6.7,15608,"Drama,Romance,25 December 1991 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+421,Anonymous ,2011,6.9,38802,"Drama,Thriller,10 November 2011 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+422,Beyond the Lights ,2014,6.9,14810,"Drama,Music,Romance,14 November 2014 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+423,Mighty Aphrodite ,1995,7.0,37150,"Comedy,Fantasy,Romance,10 November 1995 (USA)
+",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+424,Nixon ,1995,7.1,28073,"Biography,Drama,History,5 January 1996 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+425,102 Dalmatians ,2000,4.9,33816,"Adventure,Comedy,Family,22 November 2000 (USA)
+",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+426,Hustle & Flow ,2005,7.3,37977,"Crime,Drama,Music,22 July 2005 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+427,Six Degrees of Separation ,1993,6.8,19287,"Comedy,Drama,Mystery,8 December 1993 (USA)
+",0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+428,Evita ,1996,6.3,33267,"Biography,Drama,History,10 January 1997 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+429,Beloved ,1998,6.0,6941,"Drama,History,Horror,16 October 1998 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+430,Before Night Falls ,2000,7.2,23532,"Biography,Drama,Romance,23 February 2001 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+431,Henry & June ,1990,6.3,12076,"Biography,Drama,5 October 1990 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+432,Toni Erdmann ,2016,7.4,42341,"Comedy,Drama,25 December 2016 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+433,Marvin's Room ,1996,6.7,24867,"Drama,28 February 1997 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+434,Mandela: Long Walk to Freedom ,2013,7.1,25917,"Biography,Drama,History,25 December 2013 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+435,ParaNorman ,2012,7.0,91343,"Animation,Adventure,Comedy,17 August 2012 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+436,The Kite Runner ,2007,7.6,76304,"Drama,11 January 2008 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+437,Secrets & Lies ,1996,8.0,35808,"Comedy,Drama,28 February 1997 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+438,The Sweet Hereafter ,1997,7.5,31215,"Drama,21 November 1997 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,Nobody's Fool ,1994,7.4,17908,"Comedy,Drama,13 January 1995 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+440,Bugsy ,1991,6.8,25274,"Biography,Crime,Drama,20 December 1991 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+441,Beethoven's 2nd ,1993,4.9,25086,"Comedy,Family,Romance,17 December 1993 (USA)
+",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+442,Victoria & Abdul ,2017,6.8,30156,"Biography,Drama,History,6 October 2017 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+443,Rachel Getting Married ,2008,6.7,46598,"Drama,Romance,2 April 2009 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+444,Jimmy Neutron: Boy Genius ,2001,6.0,29849,"Animation,Action,Adventure,21 December 2001 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+445,The Red Violin ,1998,7.6,31044,"Drama,Music,Mystery,11 June 1999 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+446,In the Loop ,2009,7.4,53321,"Comedy,4 September 2009 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+447,The Ghost and the Darkness ,1996,6.8,54974,"Adventure,Drama,Thriller,11 October 1996 (USA)
+",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+448,Quiz Show ,1994,7.5,63129,"Biography,Drama,History,7 October 1994 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+449,Mirai ,2018,7.0,10927,"Animation,Adventure,Drama,30 May 2019 (Germany)
+",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,Don Juan DeMarco ,1994,6.7,47103,"Comedy,Drama,Romance,7 April 1995 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+451,Surf's Up ,2007,6.7,66885,"Animation,Comedy,Family,8 June 2007 (USA)
+",0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,Mr. Holland's Opus ,1995,7.3,34708,"Drama,Music,19 January 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+453,Young Guns II ,1990,6.5,30087,"Action,Western,1 August 1990 (USA)
+",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+454,The Salesman ,2016,7.8,47713,"Drama,Thriller,2 February 2017 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+455,You Can Count on Me ,2000,7.5,27331,"Drama,22 December 2000 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+456,A Royal Affair ,2012,7.5,42925,"Biography,Drama,History,19 April 2012 (Germany)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+457,Philomena ,2013,7.6,92131,"Biography,Comedy,Drama,27 November 2013 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+458,A Simple Plan ,1998,7.5,61487,"Crime,Drama,Thriller,22 January 1999 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+459,In & Out ,1997,6.4,37692,"Comedy,Romance,19 September 1997 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+460,Puss in Boots ,2011,6.6,140470,"Animation,Adventure,Comedy,28 October 2011 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+461,About Schmidt ,2002,7.1,120609,"Comedy,Drama,3 January 2003 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+462,Poetic Justice ,1993,6.1,12218,"Drama,Romance,23 July 1993 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+463,Kate & Leopold ,2001,6.4,77341,"Comedy,Fantasy,Romance,25 December 2001 (USA)
+",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+464,Flatliners ,1990,6.6,77943,"Drama,Horror,Sci-Fi,10 August 1990 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+465,Crazy Heart ,2009,7.2,82391,"Drama,Music,Romance,5 February 2010 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+466,Seabiscuit ,2003,7.3,65086,"Drama,History,Sport,25 July 2003 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+467,Wag the Dog ,1997,7.2,77206,"Comedy,Drama,9 January 1998 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+468,A Mighty Wind ,2003,7.2,25183,"Comedy,Music,9 May 2003 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+469,The People vs. Larry Flynt ,1996,7.3,85934,"Biography,Drama,10 January 1997 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+470,House of Sand and Fog ,2003,7.5,63931,"Crime,Drama,9 January 2004 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+471,What's Love Got to Do with It ,1993,7.3,16416,"Biography,Drama,Music,25 June 1993 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+472,The Sessions ,2012,7.2,40695,"Biography,Comedy,Drama,16 November 2012 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+473,Gods and Monsters ,1998,7.4,28609,"Biography,Drama,4 November 1998 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+474,Quills ,2000,7.3,50630,"Biography,Drama,25 December 2000 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+475,Extremely Loud & Incredibly Close ,2011,6.9,96095,"Adventure,Drama,Mystery,20 January 2012 (USA)
+",0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+476,Nell ,1994,6.5,26662,"Drama,23 December 1994 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+477,Girl with a Pearl Earring ,2003,6.9,70749,"Biography,Drama,Romance,30 January 2004 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+478,Still Alice ,2014,7.5,123408,"Drama,20 February 2015 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+479,The Commitments ,1991,7.6,31274,"Comedy,Drama,Music,13 September 1991 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+480,Rob Roy ,1995,6.9,39740,"Adventure,Biography,Drama,14 April 1995 (USA)
+",0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+481,Short Cuts ,1993,7.7,41277,"Comedy,Drama,6 January 1994 (Germany)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+482,Damage ,1992,6.8,15811,"Drama,Romance,22 January 1993 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+483,Beginners ,2010,7.2,86287,"Comedy,Drama,Romance,9 June 2011 (Germany)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+484,An Education ,2009,7.3,126202,"Drama,5 February 2010 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+485,The Polar Express ,2004,6.6,166690,"Animation,Adventure,Comedy,10 November 2004 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+486,Amour ,2012,7.9,90312,"Drama,Romance,20 September 2012 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+487,The First Wives Club ,1996,6.4,41660,"Comedy,20 September 1996 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+488,All Is Lost ,2013,6.9,74291,"Action,Adventure,Drama,9 January 2014 (Germany)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+489,The Nutty Professor ,1996,5.6,107157,"Comedy,Romance,Sci-Fi,28 June 1996 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+490,The Full Monty ,1997,7.2,96669,"Comedy,Drama,19 September 1997 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+491,Hamlet ,1996,7.7,35334,"Drama,25 December 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+492,Dead Man Walking ,1995,7.5,86418,"Crime,Drama,2 February 1996 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+493,Monster House ,2006,6.6,96458,"Animation,Adventure,Comedy,21 July 2006 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+494,Chaplin ,1992,7.6,51958,"Biography,Comedy,Drama,8 January 1993 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+495,The Cider House Rules ,1999,7.4,91229,"Drama,Romance,7 January 2000 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+496,Anomalisa ,2015,7.3,62760,"Animation,Comedy,Drama,21 January 2016 (Germany)
+",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+497,Loving Vincent ,2017,7.8,47182,"Animation,Biography,Crime,22 September 2017 (USA)
+",0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+498,The Hurricane ,1999,7.6,89535,"Biography,Drama,Sport,14 January 2000 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+499,The Book Thief ,2013,7.6,124420,"Drama,War,27 November 2013 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+500,Anna and the King ,1999,6.7,35117,"Drama,History,Romance,17 December 1999 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+501,The Ides of March ,2011,7.1,211701,"Drama,Thriller,7 October 2011 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+502,Frida ,2002,7.4,78662,"Biography,Drama,Romance,22 November 2002 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+503,Lars and the Real Girl ,2007,7.3,135697,"Comedy,Drama,Romance,2 November 2007 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+504,Mary Shelley's Frankenstein ,1994,6.4,49907,"Drama,Horror,Romance,4 November 1994 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+505,Letters from Iwo Jima ,2006,7.9,151219,"Action,Adventure,Drama,2 February 2007 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+506,Breakthrough ,2019,6.2,7432,"Biography,Drama,17 April 2019 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+507,20th Century Women ,2016,7.3,37592,"Comedy,Drama,20 January 2017 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+508,Awakenings ,1990,7.8,119283,"Biography,Drama,11 January 1991 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+509,The Remains of the Day ,1993,7.8,63161,"Drama,Romance,19 November 1993 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+510,A Little Princess ,1995,7.7,31138,"Drama,Family,Fantasy,19 May 1995 (USA)
+",0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+511,The Constant Gardener ,2005,7.4,129685,"Drama,Mystery,Romance,31 August 2005 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+512,The Player ,1992,7.5,52671,"Comedy,Crime,Drama,8 May 1992 (USA)
+",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+513,The Squid and the Whale ,2005,7.3,75406,"Comedy,Drama,16 December 2005 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+514,The Boxtrolls ,2014,6.8,53129,"Animation,Adventure,Comedy,26 September 2014 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+515,Dave ,1993,6.8,47719,"Comedy,Romance,7 May 1993 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+516,The Last King of Scotland ,2006,7.7,171750,"Biography,Drama,History,19 January 2007 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+517,Jackie ,2016,6.7,70741,"Biography,Drama,History,2 December 2016 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+518,Hellboy II: The Golden Army ,2008,7.0,251195,"Action,Adventure,Fantasy,11 July 2008 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+519,Australia ,2008,6.6,117352,"Adventure,Comedy,Drama,26 November 2008 (USA)
+",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+520,21 Grams ,2003,7.7,220127,"Crime,Drama,Thriller,16 January 2004 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+521,The New World ,2005,6.7,81364,"Biography,Drama,History,20 January 2006 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+522,Animal Kingdom ,2010,7.3,53593,"Crime,Drama,3 June 2010 (Australia)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+523,Jane Eyre ,2011,7.3,78854,"Drama,Romance,22 April 2011 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+524,Dancer in the Dark ,2000,8.0,99192,"Crime,Drama,Musical,6 October 2000 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+525,The Black Dahlia ,2006,5.6,70320,"Crime,Drama,Mystery,15 September 2006 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+526,Corpus Christi ,2019,7.6,7377,"Drama,28 February 2020 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+527,Out of Sight ,1998,7.0,82917,"Comedy,Crime,Drama,26 June 1998 (USA)
+",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+528,Milk ,2008,7.5,161453,"Biography,Drama,30 January 2009 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+529,Across the Universe ,2007,7.3,104549,"Drama,Fantasy,History,12 October 2007 (USA)
+",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+530,Space Cowboys ,2000,6.4,71835,"Action,Adventure,Thriller,4 August 2000 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+531,Capote ,2005,7.3,122386,"Biography,Crime,Drama,3 February 2006 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+532,At Eternity's Gate ,2018,6.9,25213,"Biography,Drama,18 April 2019 (Germany)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+533,Star Trek VI: The Undiscovered Country ,1991,7.2,68335,"Action,Adventure,Sci-Fi,6 December 1991 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+534,Heavenly Creatures ,1994,7.3,57785,"Biography,Crime,Drama,12 January 1995 (Germany)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+535,Life ,1999,6.8,44307,"Comedy,Crime,Drama,16 April 1999 (USA)
+",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+536,What Dreams May Come ,1998,7.1,100079,"Drama,Fantasy,Romance,2 October 1998 (USA)
+",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+537,The American President ,1995,6.8,50303,"Comedy,Drama,Romance,17 November 1995 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+538,Hotel Rwanda ,2004,8.1,326918,"Biography,Drama,History,4 February 2005 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+539,Memoirs of a Geisha ,2005,7.4,135707,"Drama,Romance,23 December 2005 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+540,The Muppets ,2011,7.1,85552,"Adventure,Comedy,Family,23 November 2011 (USA)
+",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+541,Elizabeth: The Golden Age ,2007,6.8,65353,"Biography,Drama,History,12 October 2007 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+542,DragonHeart ,1996,6.5,89484,"Action,Adventure,Fantasy,31 May 1996 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+543,Julie & Julia ,2009,7.0,103682,"Biography,Drama,Romance,7 August 2009 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+544,Patch Adams ,1998,6.8,100773,"Biography,Comedy,Drama,25 December 1998 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+545,How to Train Your Dragon 2 ,2014,7.8,295965,"Animation,Action,Adventure,13 June 2014 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+546,Glengarry Glen Ross ,1992,7.7,92936,"Crime,Drama,Mystery,2 October 1992 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+547,The Croods ,2013,7.2,185249,"Animation,Action,Adventure,22 March 2013 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+548,Ferdinand ,2017,6.7,45620,"Animation,Adventure,Comedy,15 December 2017 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+549,August: Osage County ,2013,7.2,82696,"Comedy,Drama,10 January 2014 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+550,Precious ,2009,7.3,103549,"Drama,20 November 2009 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+551,Stuart Little ,1999,5.9,122355,"Adventure,Comedy,Family,17 December 1999 (USA)
+",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+552,Sexy Beast ,2000,7.3,53346,"Crime,Drama,Thriller,13 July 2001 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+553,Shark Tale ,2004,6.0,162650,"Animation,Adventure,Comedy,1 October 2004 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+554,Cinderella Man ,2005,8.0,172470,"Biography,Drama,History,3 June 2005 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+555,Election ,1999,7.2,87222,"Comedy,Drama,Romance,7 May 1999 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+556,Something's Gotta Give ,2003,6.7,109076,"Comedy,Drama,Romance,12 December 2003 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+557,The Insider ,1999,7.8,155915,"Biography,Drama,Thriller,5 November 1999 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+558,The Bridges of Madison County ,1995,7.6,70260,"Drama,Romance,2 June 1995 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+559,I Am Sam ,2001,7.7,140401,"Drama,25 January 2002 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+560,Days of Thunder ,1990,6.0,76375,"Action,Drama,Sport,27 June 1990 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+561,Shakespeare in Love ,1998,7.1,209638,"Comedy,Drama,History,8 January 1999 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+562,The Prince of Egypt ,1998,7.1,114694,"Animation,Adventure,Drama,18 December 1998 (USA)
+",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+563,My Best Friend's Wedding ,1997,6.3,124710,"Comedy,Drama,Romance,20 June 1997 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+564,War Horse ,2011,7.2,143114,"Action,Adventure,Drama,25 December 2011 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+565,Missing Link ,2019,6.7,19124,"Animation,Adventure,Comedy,12 April 2019 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+566,The Wind Rises ,2013,7.8,68485,"Animation,Biography,Drama,21 February 2014 (USA)
+",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+567,Corpse Bride ,2005,7.3,235430,"Animation,Drama,Family,23 September 2005 (USA)
+",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+568,Emma ,1996,6.6,34899,"Comedy,Drama,Romance,30 August 1996 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+569,Ghost World ,2001,7.3,110941,"Comedy,Drama,21 September 2001 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+570,Border ,2018,7.0,21534,"Crime,Drama,Fantasy,26 October 2018 (USA)
+",0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+571,The Piano ,1993,7.6,76758,"Drama,Music,Romance,11 February 1994 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+572,Dreamgirls ,2006,6.5,67068,"Drama,Music,Musical,25 December 2006 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+573,The Duchess ,2008,6.9,76365,"Biography,Drama,History,10 October 2008 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+574,The Lego Movie ,2014,7.7,317440,"Animation,Action,Adventure,7 February 2014 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+575,Sideways ,2004,7.5,175868,"Comedy,Drama,Romance,21 January 2005 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+576,Rise of the Planet of the Apes ,2011,7.6,488189,"Action,Drama,Sci-Fi,5 August 2011 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+577,The Adventures of Tintin ,2011,7.3,211733,"Animation,Action,Adventure,21 December 2011 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+578,The Firm ,1993,6.8,113159,"Drama,Mystery,Thriller,30 June 1993 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+579,The Illusionist ,2006,7.6,348716,"Drama,Fantasy,History,1 September 2006 (USA)
+",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+580,Little Children ,2006,7.5,103243,"Comedy,Drama,Romance,9 February 2007 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+581,Margin Call ,2011,7.1,112869,"Drama,Thriller,29 September 2011 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+582,Unstoppable ,2010,6.8,180447,"Action,Thriller,12 November 2010 (USA)
+",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+583,Before Sunset ,2004,8.0,225410,"Drama,Romance,30 July 2004 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+584,JFK ,1991,8.0,137140,"Drama,History,Thriller,20 December 1991 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+585,The Lone Ranger ,2013,6.4,216752,"Action,Adventure,Western,3 July 2013 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+586,Marie Antoinette ,2006,6.4,97684,"Biography,Drama,History,20 October 2006 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+587,Boys Don't Cry ,1999,7.5,90401,"Biography,Crime,Drama,31 March 2000 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+588,Clear and Present Danger ,1994,6.9,86633,"Action,Crime,Drama,3 August 1994 (USA)
+",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+589,The Bodyguard ,1992,6.3,115083,"Action,Drama,Music,25 November 1992 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+590,Christopher Robin ,2018,7.3,64624,"Comedy,Drama,Family,3 August 2018 (USA)
+",0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+591,Adaptation. ,2002,7.7,172391,"Comedy,Drama,14 February 2003 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+592,Klaus ,2019,8.2,70802,"Animation,Adventure,Comedy,15 November 2019 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+593,Fences ,2016,7.2,94216,"Drama,25 December 2016 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+594,Before Midnight ,2013,7.9,134290,"Drama,Romance,14 June 2013 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+595,Ice Age ,2002,7.5,428006,"Animation,Adventure,Comedy,15 March 2002 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+596,Pleasantville ,1998,7.5,118826,"Comedy,Drama,Fantasy,23 October 1998 (USA)
+",0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+597,In the Line of Fire ,1993,7.2,89574,"Action,Crime,Drama,9 July 1993 (USA)
+",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+598,City Slickers ,1991,6.7,46641,"Comedy,Western,7 June 1991 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+599,The Golden Compass ,2007,6.1,175740,"Adventure,Family,Fantasy,7 December 2007 (USA)
+",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+600,Master and Commander: The Far Side of the World ,2003,7.4,196660,"Action,Adventure,Drama,14 November 2003 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+601,The Perfect Storm ,2000,6.4,152693,"Action,Adventure,Drama,30 June 2000 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+602,Geronimo: An American Legend ,1993,6.5,8659,"Drama,History,Western,10 December 1993 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+603,"Roman J. Israel, Esq. ",2017,6.5,29725,"Crime,Drama,Thriller,22 November 2017 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+604,The Imaginarium of Doctor Parnassus ,2009,6.8,142285,"Adventure,Comedy,Fantasy,8 January 2010 (USA)
+",0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+605,Snow White and the Huntsman ,2012,6.1,267486,"Action,Adventure,Drama,1 June 2012 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+606,Wild ,2014,7.1,116471,"Biography,Drama,19 December 2014 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+607,Charlie Wilson's War ,2007,7.0,107609,"Biography,Comedy,Drama,21 December 2007 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+608,Wyatt Earp ,1994,6.7,44172,"Adventure,Biography,Crime,24 June 1994 (USA)
+",0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+609,Elizabeth ,1998,7.4,90456,"Biography,Drama,History,19 February 1999 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+610,Chocolat ,2000,7.2,174346,"Drama,Romance,19 January 2001 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+611,Foxcatcher ,2014,7.0,131451,"Biography,Drama,Sport,16 January 2015 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+612,127 Hours ,2010,7.6,339771,"Biography,Drama,28 January 2011 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+613,All the Money in the World ,2017,6.8,69699,"Biography,Crime,Drama,25 December 2017 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+614,Mirror Mirror ,2012,5.6,82344,"Adventure,Comedy,Drama,30 March 2012 (USA)
+",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+615,Gone Baby Gone ,2007,7.6,243762,"Crime,Drama,Mystery,19 October 2007 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+616,Ali ,2001,6.8,91410,"Biography,Drama,Sport,25 December 2001 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+617,About a Boy ,2002,7.0,167765,"Comedy,Drama,Romance,17 May 2002 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+618,The Reader ,2008,7.6,225934,"Drama,Romance,30 January 2009 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+619,Carol ,2015,7.2,110143,"Drama,Romance,15 January 2016 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+620,Tarzan ,1999,7.3,196236,"Animation,Adventure,Family,18 June 1999 (USA)
+",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+621,A River Runs Through It ,1992,7.2,51889,"Drama,30 October 1992 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+622,Leaving Las Vegas ,1995,7.5,111505,"Drama,Romance,9 February 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+623,"I, Robot ",2004,7.1,487575,"Action,Drama,Sci-Fi,16 July 2004 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+624,Donnie Brasco ,1997,7.7,268432,"Biography,Crime,Drama,28 February 1997 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+625,Boyhood ,2014,7.9,328601,"Drama,15 August 2014 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+626,The Cell ,2000,6.3,93218,"Horror,Sci-Fi,Thriller,18 August 2000 (USA)
+",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0
+627,Robin Hood: Prince of Thieves ,1991,6.9,173626,"Action,Adventure,Drama,14 June 1991 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+628,In the Name of the Father ,1993,8.1,150929,"Biography,Drama,25 February 1994 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+629,Addams Family Values ,1993,6.7,76143,"Comedy,Fantasy,19 November 1993 (USA)
+",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+630,The English Patient ,1996,7.4,174099,"Drama,Romance,War,6 December 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+631,Erin Brockovich ,2000,7.3,168976,"Biography,Drama,17 March 2000 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+632,Vicky Cristina Barcelona ,2008,7.1,237382,"Comedy,Drama,Romance,15 August 2008 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+633,The Mask of Zorro ,1998,6.7,164784,"Action,Adventure,Comedy,17 July 1998 (USA)
+",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+634,Kung Fu Panda ,2008,7.5,405840,"Animation,Action,Adventure,6 June 2008 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+635,A Serious Man ,2009,7.0,129190,"Comedy,Drama,6 November 2009 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+636,"The Adventures of Priscilla, Queen of the Desert ",1994,7.4,45206,"Comedy,Music,10 August 1994 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+637,Cliffhanger ,1993,6.4,116583,"Action,Adventure,Thriller,28 May 1993 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+638,The Crying Game ,1992,7.2,49704,"Crime,Drama,Romance,19 February 1993 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+639,Pocahontas ,1995,6.7,164270,"Animation,Adventure,Drama,23 June 1995 (USA)
+",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+640,The Hunchback of Notre Dame ,1996,6.9,136978,"Animation,Drama,Family,21 June 1996 (USA)
+",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+641,Sense and Sensibility ,1995,7.6,98421,"Drama,Romance,26 January 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+642,Toy Story 2 ,1999,7.9,510184,"Animation,Adventure,Comedy,24 November 1999 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+643,A History of Violence ,2005,7.4,218988,"Drama,Thriller,30 September 2005 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+644,Sabrina ,1995,6.3,35530,"Comedy,Drama,Romance,15 December 1995 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+645,Saving Mr. Banks ,2013,7.5,147864,"Biography,Comedy,Drama,20 December 2013 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+646,Walk the Line ,2005,7.8,227580,"Biography,Drama,Music,18 November 2005 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+647,Traffic ,2000,7.6,192012,"Crime,Drama,Thriller,5 January 2001 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+648,Road to Perdition ,2002,7.7,240707,"Crime,Drama,Thriller,12 July 2002 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+649,Inherent Vice ,2014,6.7,91151,"Comedy,Crime,Drama,9 January 2015 (USA)
+",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+650,Ray ,2004,7.7,134984,"Biography,Drama,Music,29 October 2004 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+651,Treasure Planet ,2002,7.2,98074,"Animation,Adventure,Family,27 November 2002 (USA)
+",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+652,The Thin Red Line ,1998,7.6,167916,"Drama,War,15 January 1999 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+653,The King's Speech ,2010,8.0,623744,"Biography,Drama,History,25 December 2010 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+654,Allied ,2016,7.1,136270,"Action,Drama,Romance,23 November 2016 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+655,Face/Off ,1997,7.3,340899,"Action,Crime,Sci-Fi,27 June 1997 (USA)
+",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+656,Philadelphia ,1993,7.7,217555,"Drama,14 January 1994 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+657,Lilo & Stitch ,2002,7.2,161853,"Animation,Adventure,Comedy,21 June 2002 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+658,The Emperor's New Groove ,2000,7.3,173151,"Animation,Adventure,Comedy,15 December 2000 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+659,A Single Man ,2009,7.6,103549,"Drama,Romance,5 February 2010 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+660,Match Point ,2005,7.6,201348,"Drama,Romance,Thriller,20 January 2006 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+661,The Tree of Life ,2011,6.8,164120,"Drama,Fantasy,16 June 2011 (Germany)
+",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,Sully ,2016,7.4,226012,"Biography,Drama,9 September 2016 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+663,The Judge ,2014,7.4,171528,"Crime,Drama,10 October 2014 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+664,Unfaithful ,2002,6.7,77622,"Drama,Romance,Thriller,10 May 2002 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+665,The Village ,2004,6.5,237060,"Drama,Mystery,Thriller,30 July 2004 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+666,Coraline ,2009,7.7,188742,"Animation,Drama,Family,6 February 2009 (USA)
+",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+667,The Bourne Ultimatum ,2007,8.0,594824,"Action,Mystery,Thriller,3 August 2007 (USA)
+",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+668,The Jungle Book ,2016,7.4,252857,"Adventure,Drama,Family,15 April 2016 (USA)
+",0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+669,Brave ,2012,7.1,361179,"Animation,Adventure,Comedy,22 June 2012 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+670,3:10 to Yuma ,2007,7.7,281392,"Action,Adventure,Crime,7 September 2007 (USA)
+",1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+671,Wreck-It Ralph ,2012,7.7,368253,"Animation,Adventure,Comedy,2 November 2012 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+672,The Two Popes ,2019,7.6,94117,"Comedy,Drama,20 December 2019 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+673,Silence ,2016,7.2,95752,"Drama,History,13 January 2017 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+674,Vanilla Sky ,2001,6.9,242623,"Fantasy,Mystery,Romance,14 December 2001 (USA)
+",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+675,In Bruges ,2008,7.9,380676,"Comedy,Crime,Drama,29 February 2008 (USA)
+",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+676,Into the Woods ,2014,5.9,128852,"Adventure,Comedy,Drama,25 December 2014 (USA)
+",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+677,Michael Clayton ,2007,7.2,153185,"Crime,Drama,Mystery,12 October 2007 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+678,Dances with Wolves ,1990,8.0,233017,"Adventure,Drama,Western,21 November 1990 (USA)
+",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+679,Alien 3 ,1992,6.5,269390,"Action,Horror,Sci-Fi,22 May 1992 (USA)
+",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+680,Scent of a Woman ,1992,8.0,248902,"Drama,8 January 1993 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+681,Isle of Dogs ,2018,7.9,129866,"Animation,Adventure,Comedy,13 April 2018 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+682,Wild at Heart ,1990,7.2,79804,"Comedy,Crime,Drama,17 August 1990 (USA)
+",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+683,The Birdcage ,1996,7.1,77223,"Comedy,8 March 1996 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+684,My Cousin Vinny ,1992,7.6,102499,"Comedy,Crime,13 March 1992 (USA)
+",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+685,Tinker Tailor Soldier Spy ,2011,7.1,182211,"Drama,Mystery,Thriller,6 January 2012 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+686,Moulin Rouge! ,2001,7.6,261239,"Drama,Musical,Romance,1 June 2001 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+687,Click ,2006,6.4,297974,"Comedy,Drama,Fantasy,23 June 2006 (USA)
+",0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+688,Closer ,2004,7.2,198522,"Drama,Romance,3 December 2004 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+689,Flight ,2012,7.3,317180,"Drama,Thriller,2 November 2012 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+690,8 Mile ,2002,7.1,242705,"Drama,Music,8 November 2002 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+691,The Danish Girl ,2015,7.1,157908,"Biography,Drama,Romance,22 January 2016 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+692,How to Train Your Dragon ,2010,8.1,645947,"Animation,Action,Adventure,26 March 2010 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+693,The Aviator ,2004,7.5,324538,"Biography,Drama,25 December 2004 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+694,Superman Returns ,2006,6.0,267168,"Action,Sci-Fi,28 June 2006 (USA)
+",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+695,"O Brother, Where Art Thou? ",2000,7.7,276538,"Adventure,Comedy,Crime,2 February 2001 (USA)
+",0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+696,War for the Planet of the Apes ,2017,7.4,219467,"Action,Adventure,Drama,14 July 2017 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+697,Jerry Maguire ,1996,7.3,234661,"Comedy,Drama,Romance,13 December 1996 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+698,How to Train Your Dragon: The Hidden World ,2019,7.5,94113,"Animation,Action,Adventure,22 February 2019 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+699,The Fighter ,2010,7.8,331515,"Biography,Drama,Sport,17 December 2010 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+700,Legends of the Fall ,1994,7.6,142848,"Drama,Romance,War,13 January 1995 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+701,American Gangster ,2007,7.8,381308,"Biography,Crime,Drama,2 November 2007 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+702,Blue Valentine ,2010,7.4,179265,"Drama,Romance,28 January 2011 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+703,Doubt ,2008,7.5,118851,"Drama,Mystery,25 December 2008 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+704,The Way Back ,2010,7.3,107212,"Adventure,Drama,History,21 January 2011 (USA)
+",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+705,"Hail, Caesar! ",2016,6.3,120004,"Comedy,Drama,Music,5 February 2016 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+706,Chicago ,2002,7.1,210951,"Comedy,Crime,Musical,24 January 2003 (USA)
+",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+707,Hugo ,2011,7.5,297422,"Drama,Family,Fantasy,23 November 2011 (USA)
+",0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+708,As Good as It Gets ,1997,7.7,267827,"Comedy,Drama,Romance,25 December 1997 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+709,Men in Black ,1997,7.3,503136,"Action,Adventure,Comedy,2 July 1997 (USA)
+",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+710,Edward Scissorhands ,1990,7.9,434124,"Drama,Fantasy,Romance,14 December 1990 (USA)
+",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+711,Thirteen ,2003,6.8,78155,"Drama,19 September 2003 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+712,Transformers: Dark of the Moon ,2011,6.2,378124,"Action,Adventure,Sci-Fi,29 June 2011 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+713,The Rock ,1996,7.4,304902,"Action,Adventure,Thriller,7 June 1996 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+714,Mary Queen of Scots ,2018,6.3,35824,"Biography,Drama,History,21 December 2018 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+715,Phantom Thread ,2017,7.5,103932,"Drama,Romance,19 January 2018 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+716,Trolls ,2016,6.5,69110,"Animation,Adventure,Comedy,4 November 2016 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+717,Pearl Harbor ,2001,6.2,305067,"Action,Drama,History,25 May 2001 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+718,Marshall ,2017,7.2,17315,"Biography,Crime,Drama,13 October 2017 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+719,Thelma & Louise ,1991,7.5,130923,"Adventure,Crime,Drama,24 May 1991 (USA)
+",0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+720,Four Weddings and a Funeral ,1994,7.0,134551,"Comedy,Drama,Romance,15 April 1994 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+721,Wanted ,2008,6.7,353133,"Action,Crime,Fantasy,27 June 2008 (USA)
+",1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+722,Downfall ,2004,8.2,321996,"Biography,Drama,History,8 April 2005 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+723,Unbroken ,2014,7.2,140889,"Biography,Drama,Sport,25 December 2014 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+724,King Kong ,2005,7.2,382091,"Action,Adventure,Drama,14 December 2005 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+725,"Monsters, Inc. ",2001,8.0,788177,"Animation,Adventure,Comedy,2 November 2001 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+726,The Last of the Mohicans ,1992,7.7,144148,"Action,Adventure,Drama,25 September 1992 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+727,Little Miss Sunshine ,2006,7.8,428336,"Comedy,Drama,18 August 2006 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+728,Straight Outta Compton ,2015,7.9,174539,"Biography,Drama,History,14 August 2015 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+729,District 9 ,2009,7.9,626895,"Action,Sci-Fi,Thriller,14 August 2009 (USA)
+",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+730,A Bug's Life ,1998,7.2,259465,"Animation,Adventure,Comedy,25 November 1998 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+731,Sherlock Holmes ,2009,7.6,570610,"Action,Adventure,Mystery,25 December 2009 (USA)
+",1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+732,Batman Forever ,1995,5.4,229755,"Action,Adventure,16 June 1995 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+733,Alice in Wonderland ,2010,6.4,374289,"Adventure,Family,Fantasy,5 March 2010 (USA)
+",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+734,Anna Karenina ,2012,6.6,89127,"Drama,Romance,6 December 2012 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+735,Deepwater Horizon ,2016,7.1,144890,"Action,Drama,History,30 September 2016 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+736,The Lovely Bones ,2009,6.7,153224,"Drama,Fantasy,Thriller,15 January 2010 (USA)
+",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+737,The Pursuit of Happyness ,2006,8.0,432444,"Biography,Drama,15 December 2006 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+738,Aladdin ,1992,8.0,359691,"Animation,Adventure,Comedy,25 November 1992 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+739,WALL·E ,2008,8.4,965793,"Animation,Adventure,Family,27 June 2008 (USA)
+",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+740,Shrek ,2001,7.8,595412,"Animation,Adventure,Comedy,18 May 2001 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+741,Interview with the Vampire: The Vampire Chronicles ,1994,7.6,287060,"Drama,Horror,11 November 1994 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+742,Gravity ,2013,7.7,749932,"Drama,Sci-Fi,Thriller,4 October 2013 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+743,Shrek 2 ,2004,7.2,406707,"Animation,Adventure,Comedy,19 May 2004 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+744,"Girl, Interrupted ",1999,7.3,158726,"Biography,Drama,14 January 2000 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+745,Hell or High Water ,2016,7.6,195124,"Action,Crime,Drama,26 August 2016 (USA)
+",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+746,The Last Samurai ,2003,7.7,388505,"Action,Drama,War,5 December 2003 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+747,The Hunt ,2012,8.3,265597,"Drama,28 March 2013 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+748,Loving ,2016,7.0,30272,"Biography,Drama,Romance,4 November 2016 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+749,The Town ,2010,7.5,340115,"Crime,Drama,Thriller,17 September 2010 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+750,Wonder ,2017,8.0,130762,"Drama,Family,17 November 2017 (USA)
+",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+751,Incredibles 2 ,2018,7.6,235229,"Animation,Action,Adventure,15 June 2018 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+752,Ralph Breaks the Internet ,2018,7.1,120866,"Animation,Adventure,Comedy,21 November 2018 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+753,Bridge of Spies ,2015,7.6,278187,"Drama,History,Thriller,16 October 2015 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+754,Lost in Translation ,2003,7.7,397564,"Comedy,Drama,3 October 2003 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+755,Trainspotting ,1996,8.1,618934,"Drama,9 August 1996 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+756,Armageddon ,1998,6.7,387382,"Action,Adventure,Sci-Fi,1 July 1998 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+757,If Beale Street Could Talk ,2018,7.1,37993,"Drama,Romance,25 December 2018 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+758,Austin Powers: The Spy Who Shagged Me ,1999,6.6,212183,"Action,Adventure,Comedy,11 June 1999 (USA)
+",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+759,The Hobbit: The Battle of the Five Armies ,2014,7.4,460763,"Adventure,Fantasy,17 December 2014 (USA)
+",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+760,Darkest Hour ,2017,7.4,162405,"Biography,Drama,Family,22 December 2017 (USA)
+",0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+761,Amélie ,2001,8.3,685533,"Comedy,Romance,8 February 2002 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+762,Tangled ,2010,7.7,392411,"Animation,Adventure,Comedy,24 November 2010 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+763,Passengers ,2016,7.0,336205,"Drama,Romance,Sci-Fi,21 December 2016 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+764,War of the Worlds ,2005,6.5,405867,"Adventure,Sci-Fi,Thriller,29 June 2005 (USA)
+",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+765,Mary Poppins Returns ,2018,6.7,71731,"Comedy,Family,Fantasy,19 December 2018 (USA)
+",0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+766,Iron Man 2 ,2010,7.0,700559,"Action,Adventure,Sci-Fi,7 May 2010 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+767,The Florida Project ,2017,7.6,87011,"Drama,15 March 2018 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+768,The Princess and the Frog ,2009,7.1,118545,"Animation,Adventure,Comedy,11 December 2009 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+769,Boyz n the Hood ,1991,7.7,120073,"Crime,Drama,12 July 1991 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+770,Training Day ,2001,7.7,377484,"Crime,Drama,Thriller,5 October 2001 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+771,Warrior ,2011,8.2,424012,"Drama,Sport,9 September 2011 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+772,The Lost World: Jurassic Park ,1997,6.6,366820,"Action,Adventure,Sci-Fi,23 May 1997 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+773,Cinderella ,2015,6.9,153968,"Drama,Family,Fantasy,13 March 2015 (USA)
+",0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+774,Toy Story ,1995,8.3,856259,"Animation,Adventure,Comedy,22 November 1995 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+775,Cast Away ,2000,7.8,505031,"Adventure,Drama,Romance,22 December 2000 (USA)
+",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+776,The Incredibles ,2004,8.0,637829,"Animation,Action,Adventure,5 November 2004 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+777,13 Hours ,2016,7.3,113215,"Action,Drama,History,15 January 2016 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+778,Hook ,1991,6.8,227449,"Adventure,Comedy,Family,11 December 1991 (USA)
+",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+779,Malena ,2000,7.5,86488,"Comedy,Drama,Romance,2 February 2001 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+780,The Godfather: Part III ,1990,7.6,346793,"Crime,Drama,25 December 1990 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+781,Star Trek Beyond ,2016,7.1,221071,"Action,Adventure,Sci-Fi,22 July 2016 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+782,Trumbo ,2015,7.5,73606,"Biography,Drama,27 November 2015 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+783,Apollo 13 ,1995,7.6,259867,"Adventure,Drama,History,30 June 1995 (USA)
+",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+784,Brokeback Mountain ,2005,7.7,314515,"Drama,Romance,13 January 2006 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+785,Pretty Woman ,1990,7.0,278540,"Comedy,Romance,23 March 1990 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+786,Crash ,2004,7.8,413128,"Crime,Drama,Thriller,6 May 2005 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+787,"I, Tonya ",2017,7.5,169819,"Biography,Comedy,Drama,19 January 2018 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+788,Bram Stoker's Dracula ,1992,7.4,185197,"Horror,13 November 1992 (USA)
+",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+789,A Beautiful Mind ,2001,8.2,819954,"Biography,Drama,4 January 2002 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+790,Black Hawk Down ,2001,7.7,355588,"Drama,History,War,18 January 2002 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+791,True Lies ,1994,7.2,230836,"Action,Comedy,Thriller,15 July 1994 (USA)
+",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+792,Skyfall ,2012,7.7,616799,"Action,Adventure,Thriller,9 November 2012 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+793,Moneyball ,2011,7.6,349341,"Biography,Drama,Sport,23 September 2011 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+794,Silver Linings Playbook ,2012,7.7,646950,"Comedy,Drama,Romance,25 December 2012 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+795,Atonement ,2007,7.8,241014,"Drama,Mystery,Romance,11 January 2008 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+796,American Sniper ,2014,7.3,425344,"Action,Biography,Drama,16 January 2015 (USA)
+",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+797,Kong: Skull Island ,2017,6.6,259258,"Action,Adventure,Fantasy,10 March 2017 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+798,What's Eating Gilbert Grape ,1993,7.8,208206,"Drama,4 March 1994 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+799,Joy ,2015,6.6,124514,"Biography,Drama,25 December 2015 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+800,The Imitation Game ,2014,8.0,660615,"Biography,Drama,Thriller,25 December 2014 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+801,Frozen ,2013,7.4,556161,"Animation,Adventure,Comedy,27 November 2013 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+802,The Blind Side ,2009,7.6,283020,"Biography,Drama,Sport,20 November 2009 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+803,Life Is Beautiful ,1997,8.6,598936,"Comedy,Drama,Romance,12 February 1999 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+804,12 Monkeys ,1995,8.0,564438,"Mystery,Sci-Fi,Thriller,5 January 1996 (USA)
+",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+805,Nocturnal Animals ,2016,7.5,226153,"Drama,Thriller,9 December 2016 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+806,The Post ,2017,7.2,127099,"Biography,Drama,History,12 January 2018 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+807,Midnight in Paris ,2011,7.7,375377,"Comedy,Fantasy,Romance,10 June 2011 (USA)
+",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+808,Birdman or (The Unexpected Virtue of Ignorance) ,2014,7.7,560359,"Comedy,Drama,14 November 2014 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+809,Pirates of the Caribbean: Dead Man's Chest ,2006,7.3,640036,"Action,Adventure,Fantasy,7 July 2006 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+810,Star Wars: Episode II - Attack of the Clones ,2002,6.5,620700,"Action,Adventure,Fantasy,16 May 2002 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+811,The Sixth Sense ,1999,8.1,887301,"Drama,Mystery,Thriller,6 August 1999 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+812,Cars ,2006,7.1,354137,"Animation,Comedy,Family,9 June 2006 (USA)
+",0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+813,Life of Pi ,2012,7.9,565939,"Adventure,Drama,Fantasy,21 November 2012 (USA)
+",0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+814,Total Recall ,1990,7.5,291874,"Action,Sci-Fi,Thriller,1 June 1990 (USA)
+",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+815,The Hunt for Red October ,1990,7.6,173183,"Action,Adventure,Thriller,2 March 1990 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+816,Pirates of the Caribbean: At World's End ,2007,7.1,581372,"Action,Adventure,Fantasy,25 May 2007 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+817,Tropic Thunder ,2008,7.0,369270,"Action,Comedy,War,13 August 2008 (USA)
+",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+818,Pride & Prejudice ,2005,7.8,244187,"Drama,Romance,23 November 2005 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+819,First Man ,2018,7.3,154701,"Biography,Drama,History,12 October 2018 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+820,The Girl with the Dragon Tattoo ,2011,7.8,408187,"Crime,Drama,Mystery,21 December 2011 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+821,Children of Men ,2006,7.9,451291,"Drama,Sci-Fi,Thriller,5 January 2007 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+822,Waterworld ,1995,6.2,175295,"Action,Adventure,Sci-Fi,28 July 1995 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+823,Spectre ,2015,6.8,373321,"Action,Adventure,Thriller,6 November 2015 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+824,The Shape of Water ,2017,7.3,352350,"Adventure,Drama,Fantasy,22 December 2017 (USA)
+",0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+825,Hidden Figures ,2016,7.8,190232,"Biography,Drama,History,6 January 2017 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+826,Mulholland Drive ,2001,8.0,308926,"Drama,Mystery,Thriller,19 October 2001 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+827,Captain Fantastic ,2016,7.9,179034,"Comedy,Drama,29 July 2016 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+828,Unforgiven ,1992,8.2,363141,"Drama,Western,7 August 1992 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+829,True Grit ,2010,7.6,301576,"Drama,Western,22 December 2010 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+830,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",2005,6.9,356310,"Adventure,Family,Fantasy,9 December 2005 (USA)
+",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+831,Zero Dark Thirty ,2012,7.4,263958,"Drama,History,Thriller,11 January 2013 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+832,The Hurt Locker ,2008,7.6,411190,"Drama,Thriller,War,31 July 2009 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+833,Fantastic Beasts and Where to Find Them ,2016,7.3,394350,"Adventure,Family,Fantasy,18 November 2016 (USA)
+",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+834,The Patriot ,2000,7.2,248633,"Action,Drama,History,28 June 2000 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+835,Prometheus ,2012,7.0,557291,"Adventure,Mystery,Sci-Fi,8 June 2012 (USA)
+",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+836,Coco ,2017,8.4,342929,"Animation,Adventure,Family,22 November 2017 (USA)
+",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+837,The Truman Show ,1998,8.1,898062,"Comedy,Drama,Sci-Fi,5 June 1998 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+838,Air Force One ,1997,6.5,175284,"Action,Drama,Thriller,25 July 1997 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+839,Catch Me If You Can ,2002,8.1,788198,"Biography,Crime,Drama,25 December 2002 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+840,The Pianist ,2002,8.5,699517,"Biography,Drama,Music,28 March 2003 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+841,Sicario ,2015,7.6,355921,"Action,Crime,Drama,2 October 2015 (USA)
+",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+842,Being John Malkovich ,1999,7.7,300915,"Comedy,Drama,Fantasy,3 December 1999 (USA)
+",0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+843,Black Swan ,2010,8.0,681279,"Drama,Thriller,17 December 2010 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+844,Minority Report ,2002,7.6,494274,"Action,Crime,Mystery,21 June 2002 (USA)
+",1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+845,Drive ,2011,7.8,553356,"Crime,Drama,16 September 2011 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+846,Harry Potter and the Deathly Hallows: Part 1 ,2010,7.7,457867,"Adventure,Family,Fantasy,19 November 2010 (USA)
+",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+847,Harry Potter and the Half-Blood Prince ,2009,7.6,452561,"Action,Adventure,Family,15 July 2009 (USA)
+",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+848,Hacksaw Ridge ,2016,8.1,411212,"Biography,Drama,History,4 November 2016 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+849,Good Will Hunting ,1997,8.3,827882,"Drama,Romance,9 January 1998 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+850,Room ,2015,8.1,351297,"Drama,Thriller,22 January 2016 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+851,Doctor Strange ,2016,7.5,571432,"Action,Adventure,Fantasy,4 November 2016 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+852,The Lion King ,1994,8.5,907974,"Animation,Adventure,Drama,24 June 1994 (USA)
+",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+853,There Will Be Blood ,2007,8.2,496864,"Drama,25 January 2008 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+854,Hercules ,1997,7.3,197821,"Animation,Adventure,Comedy,27 June 1997 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+855,Arrival ,2016,7.9,567867,"Drama,Mystery,Sci-Fi,11 November 2016 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+856,Troy ,2004,7.2,476197,"Drama,History,14 May 2004 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+857,Zootopia ,2016,8.0,416047,"Animation,Adventure,Comedy,4 March 2016 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+858,The Big Short ,2015,7.8,343314,"Biography,Comedy,Drama,23 December 2015 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+859,The Favourite ,2018,7.5,159839,"Biography,Comedy,Drama,21 December 2018 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+860,Her ,2013,8.0,516530,"Drama,Romance,Sci-Fi,10 January 2014 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+861,"Three Billboards Outside Ebbing, Missouri ",2017,8.2,402481,"Comedy,Crime,Drama,1 December 2017 (USA)
+",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+862,Terminator 2: Judgment Day ,1991,8.5,966521,"Action,Sci-Fi,3 July 1991 (USA)
+",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+863,American Beauty ,1999,8.3,1041224,"Drama,1 October 1999 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+864,The Grand Budapest Hotel ,2014,8.1,680104,"Adventure,Comedy,Crime,28 March 2014 (USA)
+",0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+865,The Hobbit: An Unexpected Journey ,2012,7.8,742463,"Adventure,Family,Fantasy,14 December 2012 (USA)
+",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+866,Solo: A Star Wars Story ,2018,6.9,272635,"Action,Adventure,Sci-Fi,25 May 2018 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+867,Big Hero 6 ,2014,7.8,397172,"Animation,Action,Adventure,7 November 2014 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+868,Independence Day ,1996,7.0,515588,"Action,Adventure,Sci-Fi,3 July 1996 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+869,Bridesmaids ,2011,6.8,261104,"Comedy,Romance,13 May 2011 (USA)
+",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+870,Into the Wild ,2007,8.1,554138,"Adventure,Biography,Drama,19 October 2007 (USA)
+",0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+871,Eternal Sunshine of the Spotless Mind ,2004,8.3,880405,"Drama,Romance,Sci-Fi,19 March 2004 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+872,A Quiet Place ,2018,7.5,383948,"Drama,Horror,Sci-Fi,6 April 2018 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+873,The Avengers ,2012,8.0,1234446,"Action,Adventure,Sci-Fi,4 May 2012 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+874,Primal Fear ,1996,7.7,178034,"Crime,Drama,Mystery,3 April 1996 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+875,A Few Good Men ,1992,7.7,226848,"Drama,Thriller,11 December 1992 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+876,Memento ,2000,8.4,1087999,"Mystery,Thriller,25 May 2001 (USA)
+",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+877,Spider-Man ,2002,7.3,670703,"Action,Adventure,Sci-Fi,3 May 2002 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+878,Braveheart ,1995,8.3,935171,"Biography,Drama,History,24 May 1995 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+879,La La Land ,2016,8.0,480791,"Comedy,Drama,Music,25 December 2016 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+880,The Curious Case of Benjamin Button ,2008,7.8,570872,"Drama,Fantasy,Romance,25 December 2008 (USA)
+",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+881,Almost Famous ,2000,7.9,245153,"Adventure,Comedy,Drama,22 September 2000 (USA)
+",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+882,The Lord of the Rings: The Two Towers ,2002,8.7,1437095,"Adventure,Drama,Fantasy,18 December 2002 (USA)
+",0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+883,The Greatest Showman ,2017,7.6,221787,"Biography,Drama,Musical,20 December 2017 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+884,The Revenant ,2015,8.0,677121,"Action,Adventure,Biography,8 January 2016 (USA)
+",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+885,Dunkirk ,2017,7.9,521210,"Action,Drama,History,21 July 2017 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+886,Maleficent ,2014,7.0,333737,"Action,Adventure,Family,30 May 2014 (USA)
+",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+887,Logan ,2017,8.1,619287,"Action,Drama,Sci-Fi,3 March 2017 (USA)
+",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+888,The Square ,2017,7.2,51879,"Comedy,Drama,19 October 2017 (Germany)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+889,Pirates of the Caribbean: The Curse of the Black Pearl ,2003,8.0,996090,"Action,Adventure,Fantasy,9 July 2003 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+890,Whiplash ,2014,8.5,680765,"Drama,Music,19 February 2015 (Germany)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+891,Casino ,1995,8.2,446646,"Crime,Drama,22 November 1995 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+892,Beauty and the Beast ,2017,7.1,260657,"Family,Fantasy,Musical,17 March 2017 (USA)
+",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+893,Malcolm X ,1992,7.7,81753,"Biography,Drama,History,18 November 1992 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+894,A Star Is Born ,2018,7.7,311491,"Drama,Music,Romance,5 October 2018 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+895,Prisoners ,2013,8.1,573159,"Crime,Drama,Mystery,20 September 2013 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+896,Avatar ,2009,7.8,1094783,"Action,Adventure,Fantasy,18 December 2009 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+897,12 Years a Slave ,2013,8.1,617925,"Biography,Drama,History,8 November 2013 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+898,The Green Mile ,1999,8.6,1098430,"Crime,Drama,Fantasy,10 December 1999 (USA)
+",0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+899,The Hateful Eight ,2015,7.8,492042,"Crime,Drama,Mystery,30 December 2015 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+900,Harry Potter and the Deathly Hallows: Part 2 ,2011,8.1,735915,"Adventure,Drama,Fantasy,15 July 2011 (USA)
+",0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+901,Cape Fear ,1991,7.3,166014,"Crime,Thriller,15 November 1991 (USA)
+",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+902,Frozen II ,2019,6.9,112401,"Animation,Adventure,Comedy,22 November 2019 (USA)
+",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+903,Suicide Squad ,2016,6.0,580831,"Action,Adventure,Fantasy,5 August 2016 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+904,The Lord of the Rings: The Return of the King ,2003,8.9,1590551,"Adventure,Drama,Fantasy,17 December 2003 (USA)
+",0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+905,Harry Potter and the Goblet of Fire ,2005,7.7,524696,"Adventure,Family,Fantasy,18 November 2005 (USA)
+",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+906,Gone Girl ,2014,8.1,823080,"Drama,Mystery,Thriller,3 October 2014 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+907,Schindler's List ,1993,8.9,1170424,"Biography,Drama,History,4 February 1994 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+908,Moonlight ,2016,7.4,258678,"Drama,18 November 2016 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+909,Boogie Nights ,1997,7.9,231311,"Drama,31 October 1997 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+910,Green Book ,2018,8.2,328925,"Biography,Comedy,Drama,16 November 2018 (USA)
+",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+911,Goodfellas ,1990,8.7,980106,"Biography,Crime,Drama,21 September 1990 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+912,The Departed ,2006,8.5,1147971,"Crime,Drama,Thriller,6 October 2006 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+913,Fifty Shades of Grey ,2015,4.1,291173,"Drama,Romance,Thriller,13 February 2015 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+914,The Lion King ,2019,6.9,193948,"Animation,Adventure,Drama,19 July 2019 (USA)
+",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+915,Blade Runner 2049 ,2017,8.0,433287,"Action,Drama,Mystery,6 October 2017 (USA)
+",1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+916,Se7en ,1995,8.6,1386650,"Crime,Drama,Mystery,22 September 1995 (USA)
+",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+917,Spider-Man: Into the Spider-Verse ,2018,8.4,323166,"Animation,Action,Adventure,14 December 2018 (USA)
+",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+918,Guardians of the Galaxy ,2014,8.0,1015659,"Action,Adventure,Comedy,1 August 2014 (USA)
+",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+919,BlacKkKlansman ,2018,7.5,195980,"Biography,Crime,Drama,10 August 2018 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+920,Avengers: Infinity War ,2018,8.5,781414,"Action,Adventure,Sci-Fi,27 April 2018 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+921,Lady Bird ,2017,7.4,222203,"Comedy,Drama,1 December 2017 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+922,The Prestige ,2006,8.5,1141289,"Drama,Mystery,Sci-Fi,20 October 2006 (USA)
+",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+923,Inception ,2010,8.8,1975562,"Action,Adventure,Sci-Fi,16 July 2010 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+924,The Wolf of Wall Street ,2013,8.2,1123522,"Biography,Crime,Drama,25 December 2013 (USA)
+",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+925,Twister ,1996,6.4,170733,"Action,Adventure,Thriller,10 May 1996 (USA)
+",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+926,Rocketman ,2019,7.3,118104,"Biography,Drama,Music,31 May 2019 (USA)
+",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+927,The Shawshank Redemption ,1994,9.3,2252748,"Drama,14 October 1994 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+928,Jojo Rabbit ,2019,7.9,228256,"Comedy,Drama,War,8 November 2019 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+929,Maleficent: Mistress of Evil ,2019,6.6,71451,"Adventure,Family,Fantasy,18 October 2019 (USA)
+",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+930,Star Wars: Episode IX - The Rise of Skywalker ,2019,6.7,333655,"Action,Adventure,Fantasy,20 December 2019 (USA)
+",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+931,The Help ,2011,8.1,414836,"Drama,10 August 2011 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+932,Once Upon a Time... in Hollywood ,2019,7.7,480614,"Comedy,Drama,26 July 2019 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+933,Avengers: Endgame ,2019,8.4,730203,"Action,Adventure,Drama,26 April 2019 (USA)
+",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+934,1917 ,2019,8.3,330263,"Drama,War,10 January 2020 (USA)
+",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+935,Ad Astra ,2019,6.6,170993,"Adventure,Drama,Mystery,20 September 2019 (USA)
+",0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+936,Parasite ,2019,8.6,430901,"Comedy,Drama,Thriller,8 November 2019 (USA)
+",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+937,Joker ,2019,8.5,812156,"Crime,Drama,Thriller,4 October 2019 (USA)
+",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
